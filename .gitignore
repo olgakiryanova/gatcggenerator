@@ -1,0 +1,5 @@
+.vscode
+test.ipynb
+__pycache__
+API_KEY.txt
+BOT_URL.txt
