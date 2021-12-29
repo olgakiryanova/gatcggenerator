@@ -11,8 +11,9 @@ The GATCGGenerator allows to generate DNA and RNA sequences . The output is pres
 The output table contains the following information: sequence, GC-composition, and quantitative content of each nucleotide.
 
 ## Authors
-- Olga Kiryanova <olga.kiryanova27@gmail.com>
+- Olga Kiryanova <kiryanova@anrb.ru>
 - Ilya Kiryanov <ilya.lsc@gmail.com>
+- Alexey Chemeris <chemeris@anrb.ru>
 
 ## License
 GPL
